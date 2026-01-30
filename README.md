@@ -2,7 +2,6 @@
 
 Welcome to my personal portfolio repository! This project showcases my work, skills, and professional background as a Web Designer and Developer.
 
-![Portfolio Preview](assets/hero_photo.jpg)
 
 ## 👨‍💻 About Me
 
